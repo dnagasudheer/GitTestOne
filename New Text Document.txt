@@ -1,1 +1,5 @@
-thi is master
+this is in master
+error fixed
+sdfsaf
+sdf
+safgit 
